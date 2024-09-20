@@ -11,7 +11,7 @@ module.exports = {
         'title': ['22px', '26.4px'],
       },
       fontFamily: {
-        'body': ['"Poppins"', 'sans-serif'],
+        'outfit': ['Outfit', 'sans-serif'],
       },
       colors: {
         'slate-300': '#D5E1EF',
